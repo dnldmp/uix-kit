@@ -18,6 +18,22 @@
     transition: background 0ms;
 }
 
+/* Grey */
+.uix.btn.grey{
+    background-color: #e0e1e2 ;
+    color: rgba(0,0,0,.6);
+}
+
+.uix.btn.grey:hover{
+    background: #d8d8d8 radial-gradient(circle, transparent 1%, #d8d8d8 1%) center/15000%;
+}
+
+.uix.btn.grey:active{
+    background-color: #e0e1e2;
+    background-size: 100%;
+    transition: background 0ms;
+}
+
 /* Blue */
 .uix.btn.blue{
     background-color: #179bff;

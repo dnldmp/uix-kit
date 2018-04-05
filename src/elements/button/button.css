@@ -15,12 +15,13 @@
     font-size: 14px;
     font-weight: 500;
     position: relative;
-    height: 36px;
-    line-height: 36px;
+    height: 40px;
+    line-height: 40px;
     min-width: 88px;
     border-radius: 2px;
     user-select: none;
     overflow: hidden;
     text-align: center;
     text-transform: uppercase;
+    
 }
